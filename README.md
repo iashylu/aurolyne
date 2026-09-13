@@ -28,4 +28,4 @@ AUROLYNE is a personal web application that combines **journaling, dream documen
 
 ---
 
-**Created by Ashley King**
+**Created by Ashylu**
